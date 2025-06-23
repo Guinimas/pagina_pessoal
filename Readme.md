@@ -1,6 +1,8 @@
 # About Me
 
 Este é um projeto simples de página pessoal feito com HTML e CSS.
+## Status
+- Em desenvolvimento
 
 ## Funcionalidades
 
